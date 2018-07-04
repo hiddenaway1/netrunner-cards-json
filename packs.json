@@ -119,7 +119,7 @@
     {
         "code": "cotc",
         "cycle_code": "kitara",
-        "date_release": null,
+        "date_release": "2018-03-01",
         "ffg_id": 52,
         "name": "Council of the Crest",
         "position": 3,
@@ -272,7 +272,7 @@
     {
         "code": "ka",
         "cycle_code": "kitara",
-        "date_release": null,
+        "date_release": "2018-05-31",
         "ffg_id": 55,
         "name": "Kampala Ascendent",
         "position": 6,
@@ -342,6 +342,15 @@
         "size": 20
     },
     {
+        "code": "rar",
+        "cycle_code": "reign-and-reverie",
+        "date_release": "2018-06-28",
+        "ffg_id": 56,
+        "name": "Reign and Reverie",
+        "position": 1,
+        "size": 58
+    },
+    {
         "code": "si",
         "cycle_code": "mumbad",
         "date_release": "2016-04-28",
@@ -407,7 +416,7 @@
     {
         "code": "tdatd",
         "cycle_code": "kitara",
-        "date_release": null,
+        "date_release": "2018-04-05",
         "ffg_id": 53,
         "name": "The Devil and the Dragon",
         "position": 4,
@@ -488,7 +497,7 @@
     {
         "code": "win",
         "cycle_code": "kitara",
-        "date_release": null,
+        "date_release": "2018-05-03",
         "ffg_id": 54,
         "name": "Whispers in Nalubaale",
         "position": 5,

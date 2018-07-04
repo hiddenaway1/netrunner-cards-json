@@ -48,6 +48,10 @@
         "name": "Grundspiel"
     },
     {
+        "code": "cotc",
+        "name": "Gipfelrat"
+    },
+    {
         "code": "dad",
         "name": "Daten und Bestimmung"
     },
@@ -112,6 +116,10 @@
         "name": "Intervention"
     },
     {
+        "code": "ka",
+        "name": "Kampalas Aufstieg"
+    },
+    {
         "code": "kg",
         "name": "Kala Ghoda"
     },
@@ -168,6 +176,10 @@
         "name": "Tödliche Direktive"
     },
     {
+        "code": "tdatd",
+        "name": "Der Teufel und der Drache"
+    },
+    {
         "code": "tlm",
         "name": "Der befreite Geist"
     },
@@ -198,6 +210,10 @@
     {
         "code": "val",
         "name": "Das Valley"
+    },
+    {
+        "code": "win",
+        "name": "Geflüster in Nalubaale"
     },
     {
         "code": "wla",
